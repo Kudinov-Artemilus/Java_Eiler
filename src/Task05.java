@@ -9,7 +9,7 @@
  *
  * Какое самое маленькое число
  * делится нацело на все числа
- * от 1 до 20? */
+ * от 1 до 20?    */
 
 public class Task05 {
     public static void main (String[] args) {
