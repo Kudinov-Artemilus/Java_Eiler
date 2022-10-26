@@ -25,7 +25,7 @@ public class Task06 {
 
         for (int n = 1; n <= max; n++){
             sumREG += n;
-            sumSQU += n * n;
+            sumSQU += n * n; //kvadrat
         }
 
         squSum = sumREG * sumREG;
