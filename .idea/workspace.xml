@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e567f3f6-5726-4bbf-a85d-f1014ae1dc3e" name="Changes" comment="Task01 добавил ввод с клавиатуры максимальное значение до которого посчитать сумму">
-      <change beforePath="$PROJECT_DIR$/src/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task01.java" afterDir="false" />
+    <list default="true" id="e567f3f6-5726-4bbf-a85d-f1014ae1dc3e" name="Changes" comment="Task01 теперь кратные числа и до какого числа считать определяет пользователь">
+      <change afterPath="$PROJECT_DIR$/src/Task07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666803701750</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Task01 теперь кратные числа и до какого числа считать определяет пользователь">
+      <created>1666804173807</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1666804173807</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,6 +155,7 @@
     <MESSAGE value="Task05 выполнил" />
     <MESSAGE value="Task06 выполнил" />
     <MESSAGE value="Task01 добавил ввод с клавиатуры максимальное значение до которого посчитать сумму" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task01 добавил ввод с клавиатуры максимальное значение до которого посчитать сумму" />
+    <MESSAGE value="Task01 теперь кратные числа и до какого числа считать определяет пользователь" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task01 теперь кратные числа и до какого числа считать определяет пользователь" />
   </component>
 </project>
