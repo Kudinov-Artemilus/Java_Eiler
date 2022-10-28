@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e567f3f6-5726-4bbf-a85d-f1014ae1dc3e" name="Changes" comment="Task07 выполнил">
-      <change afterPath="$PROJECT_DIR$/src/Task08.java" afterDir="false" />
+    <list default="true" id="e567f3f6-5726-4bbf-a85d-f1014ae1dc3e" name="Changes" comment="Task08 выполнил">
+      <change afterPath="$PROJECT_DIR$/src/Block_diagram_Task01.drawio" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666884977763</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Task08 выполнил">
+      <created>1666973725962</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1666973725962</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,6 +171,7 @@
     <MESSAGE value="Task01 добавил ввод с клавиатуры максимальное значение до которого посчитать сумму" />
     <MESSAGE value="Task01 теперь кратные числа и до какого числа считать определяет пользователь" />
     <MESSAGE value="Task07 выполнил" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task07 выполнил" />
+    <MESSAGE value="Task08 выполнил" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task08 выполнил" />
   </component>
 </project>
