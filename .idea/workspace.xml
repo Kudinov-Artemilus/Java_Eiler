@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e567f3f6-5726-4bbf-a85d-f1014ae1dc3e" name="Changes" comment="Task01 поюзал плагин для отрисовки блок-схемы на примере первой задачи">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Block_diagram_Task01.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/Block_Diagram/Block_diagram_Task01.drawio" afterDir="false" />
-    </list>
+    <list default="true" id="e567f3f6-5726-4bbf-a85d-f1014ae1dc3e" name="Changes" comment="Task01 поюзал плагин для отрисовки блок-схемы на примере первой задачи.&#10;Перенес блок-схемы в отдельную папку" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666977851349</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Task01 поюзал плагин для отрисовки блок-схемы на примере первой задачи.&#10;Перенес блок-схемы в отдельную папку">
+      <created>1666977953052</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1666977953052</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +189,7 @@
     <MESSAGE value="Task07 выполнил" />
     <MESSAGE value="Task08 выполнил" />
     <MESSAGE value="Task01 поюзал плагин для отрисовки блок-схемы на примере первой задачи" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task01 поюзал плагин для отрисовки блок-схемы на примере первой задачи" />
+    <MESSAGE value="Task01 поюзал плагин для отрисовки блок-схемы на примере первой задачи.&#10;Перенес блок-схемы в отдельную папку" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task01 поюзал плагин для отрисовки блок-схемы на примере первой задачи.&#10;Перенес блок-схемы в отдельную папку" />
   </component>
 </project>

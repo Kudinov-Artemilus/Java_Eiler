@@ -29,14 +29,13 @@
  *
  * Найдите наибольшее произведение тринадцати последовательных цифр в данном числе.
  */
-import java.time.Duration;
-import java.time.Instant;
+
 public class Task08 {
     public static void main(String[] args) {
-        Instant t1, t2;
+
         long TIME;
 
-        t1 = Instant.now();
+
 
         int   lenNum = 13;
 
@@ -84,15 +83,12 @@ public class Task08 {
             }
         }
 
-        t2 = Instant.now();
-
-        TIME = Duration.between(t1, t2).toMillis();
 
         System.out.println("RESULT    -- " + mulResultMax);
         System.out.print("SLICE     -- ");
         for (int elem : intArrayMax) System.out.print(elem);
         System.out.println();
-        System.out.println("TIME (MS) -- " + TIME);
+
     }
 }
 
